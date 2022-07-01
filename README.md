@@ -4,5 +4,6 @@
 This notebook improves the current MMSegmentation Colab notebook with additional features such as:
 * Saving the best model weights and config file
 * Changing the loss function
+* Optional integration to mlflow
 * Loading config file and model weights from the filesystem
 * Running batch inferences and displaying results
